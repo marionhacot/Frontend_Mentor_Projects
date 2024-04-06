@@ -1,49 +1,12 @@
-body {
-  text-align: center;
-  margin: 0;
-  padding: 0;
-  background-color: hsl(212, 45%, 89%);
+html {
   font-size: 16px;
   font-family: "Outfit", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.qr_code {
-  background-color: hsl(0, 0%, 100%);
-  width: 375px;
-  margin: 0 auto;
-  padding: 15px 5px;
-  margin-top: 50px;
-  border-radius: 12px;
-}
-
-img {
-  height: 350px;
-  width: auto;
-  border-radius: 12px;
-}
-
-.text {
-  width: 350px;
-  text-align: center;
-  margin: 0 auto;
 }
 
 h1 {
+  font-size: 2rem;
+}
+
+h2 {
   font-size: 1.25rem;
-  font-weight: 700;
-}
-
-.text p {
-  color: hsl(220, 15%, 55%);
-}
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  padding-top: 10px;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
